@@ -44,3 +44,23 @@
 .col-12 {
   width: 100%;
 }
+
+.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9.col-10,.col-11,.col-12 {
+  padding: 10px 30px 30px 3px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.row img{
+  width: 40%;
+  height: 100%;
+}
+
+@media (max-width:900px) {
+  .row {
+    display: inherit;
+  }
+  .col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9.col-10,.col-11,.col-12 {
+    padding: 10px;
+  }
+}
