@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(26, 25, 25);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.content_exito {
+    text-align: center;
+    color: white;
+}
+
+.content_exito img {
+    width: 40%;
+}
+
