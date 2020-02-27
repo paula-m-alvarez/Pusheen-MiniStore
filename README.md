@@ -18,6 +18,8 @@ Start this project because I started the Frontend Architecture career in Platzi,
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
+Curso -> https://platzi.com/clases/html-css/
+
 Diploma Platzi -> [diploma-html-css.pdf](https://github.com/paula-m-alvarez/Pusheen-MiniStore/files/4259093/diploma-html-css.pdf)
 
 Pagina Web -> https://pusheen-mini-store.now.sh/
