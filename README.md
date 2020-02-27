@@ -15,3 +15,9 @@ Inicie este proyecto porque comence la carrera de Arquitectura Frontend en Platz
 The project is about a small online store of Pusheen stuffed animals. Where we have a Start, Faqs, Products, Selected Product etc.
 
 Start this project because I started the Frontend Architecture career in Platzi, in order to reaffirm certain knowledge. I recommend it!
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Diploma Platzi -> [diploma-html-css.pdf](https://github.com/paula-m-alvarez/Pusheen-MiniStore/files/4259093/diploma-html-css.pdf)
+
+Pagina Web -> https://pusheen-mini-store.now.sh/
